@@ -5,6 +5,7 @@ public class TestFailure extends TestCase {
 	
 	public void testFailure() throws Exception {
 		fail();
+		fail();
 	}
 
 }
